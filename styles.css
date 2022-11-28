@@ -1,0 +1,8 @@
+.row div {
+    margin: 0.25rem;
+}
+
+.item{
+    background-color: #3bf9d7;
+    padding: 20px;
+}
